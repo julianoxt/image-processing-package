@@ -1,3 +1,24 @@
+Metadata-Version: 2.4
+Name: test_juliano_image_processing
+Version: 0.0.1
+Summary: Pacote de processamento de imagens
+Home-page: https://github.com/julianoxt/image-processing-package
+Author: Antonio Juliano
+Author-email: julianoxt@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # package_name
 
 Description. 
